@@ -9,3 +9,5 @@ joblib
 PyJWT
 passlib[bcrypt]
 bcrypt
+
+web3
