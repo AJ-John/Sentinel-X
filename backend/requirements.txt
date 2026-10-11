@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pymongo[srv]
+python-dotenv
+scikit-learn
+pandas
+numpy
+joblib
+PyJWT
+passlib[bcrypt]
+bcrypt
