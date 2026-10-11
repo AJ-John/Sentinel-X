@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
-pymongo[srv]
+pymongo
 python-dotenv
 scikit-learn
 pandas
